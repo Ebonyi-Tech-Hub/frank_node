@@ -1,5 +1,5 @@
 let g = 1;
-leg y = 2;
+let y = 2;
 let m = 3;
 let a = g + y;
 let b = a × a;
