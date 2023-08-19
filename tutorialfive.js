@@ -1,1 +1,11 @@
-
+let c = 1;
+let d = 2;
+let h = 3;
+let f = 4;
+let a = c + d;
+let b = c / a;
+let e = b + h;
+let g = h - 2;
+let i = f / g;
+let j = i ** i;
+let y = e + j;
